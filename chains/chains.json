@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0x6408de7737c59c238890533af25896a2c20608d8b380bb01029acb392781063e",
+    "name": "Rococo Local Testnet",
+    "network_id": 1,
+    "parachain_id": -1,
+    "token_ticker": "ROC",
+    "token_decimals": 12,
+    "signature_type": "sr25519",
+    "chain_type": "substrate",
+    "ss58": 42,
+    "url": "wss://rococo-rpc.polkadot.io",
+    "explorer_url": "https://polkadot.js.org/apps/",
+    "is_main": false
+  },
+  {
+    "id": "0x3920bcb4960a1eef5580cd5367ff3f430eef052774f78468852f7b9cb39f8a3c",
+    "name": "Polkadex Main Network",
+    "network_id": 0,
+    "parachain_id": -1,
+    "token_ticker": "PDEX",
+    "token_decimals": 12,
+    "signature_type": "sr25519",
+    "chain_type": "substrate",
+    "ss58": 88,
+    "url": "wss://mainnet.polkadex.trade",
+    "explorer_url": "https://polkadot.js.org/apps/",
+    "is_main": true
+  },
+  {
+    "id": "0x065c40275da89a6b56ddc902ed6ffbfd2ffd9734c5517bef0489fd92845f738d",
+    "name": "Polkadex Test Net",
+    "network_id": 0,
+    "parachain_id": -1,
+    "token_ticker": "PDEX",
+    "token_decimals": 12,
+    "signature_type": "sr25519",
+    "chain_type": "substrate",
+    "ss58": 88,
+    "url": "wss://blockchain.polkadex.trade",
+    "explorer_url": "https://polkadot.js.org/apps/",
+    "is_main": false
+  }
+]
