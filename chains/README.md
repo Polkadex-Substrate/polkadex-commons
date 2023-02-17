@@ -5,6 +5,7 @@
     name: string, //name of the chain as shown in explorers
     network_id: number, //the network id used by polkadex chain to interact. 0 is reserverd for polkadex
     parachain_id: number, //the parachain id of the network. -1 means its not a parachain
+    token_asset_id: string, //the asset_id of the native token of the chain
     token_ticker: string, //ticker for native token of the chain
     token_decimals: number, // decimals for native token
     signature_type: string, //signature validation used by chain can be sr25519 | ed25519 | ecdsa
