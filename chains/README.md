@@ -14,6 +14,7 @@
     explorer_url: string, // url to the explorer website for the chain
     is_main: boolean, //flag to see if network is a mainnet
     evm_id: boolean,  //evm network id of the chain. -1 for non evm chains
+    supported_tokens: string[] //an array of polkadex asset-ids which the chain supports
 }
 ```
 
