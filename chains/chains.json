@@ -47,4 +47,20 @@
     "is_main": false,
     "supported_tokens": []
   }
+  {
+    "id": "0x065c40275da89a6b56ddc902ed6ffbfd2ffd9734c5517bef0489fd92845f738d",
+    "name": "Equilibrium",
+    "network_id": 1,
+    "parachain_id": 2011,
+    "token_asset_id": 0
+    "token_ticker": "EQB",
+    "token_decimals": 9,
+    "signature_type": "sr25519",
+    "chain_type": "substrate",
+    "ss58": 88,
+    "url": "wss://blockchain.polkadex.trade",
+    "explorer_url": "https://polkadot.js.org/apps/",
+    "is_main": false,
+    "supported_tokens": [100199825130577834639174460142920805123, 262967672984545920143828373962273581045]
+  }
 ]
